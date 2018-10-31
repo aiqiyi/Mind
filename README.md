@@ -109,7 +109,7 @@
 - [如何高效的使用 Git](https://github.com/crossoverJie/JCSprout/blob/master/MD/additional-skills/how-to-use-git-efficiently.md)
 
 
-### 联系作者
+### 联系作者 
 
 > crossoverJie#gmail.com
 
