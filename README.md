@@ -1,7 +1,7 @@
 # Mind
 <div align="center">  
 
-<img src="https://ws1.sinaimg.cn/large/0069RVTdly1fubocn5pxaj30go082dg1.jpg" width=""/> 
+<img src="https://s1.ax2x.com/2018/10/31/5Xf4za.png" width=""/> 
 <br/>
 
 
